@@ -18,22 +18,17 @@ Link to wiring I copied for setting up the seven segment display: https://projec
 I personally wired the buttons since it's pretty simple for buttons (IO)
 ## Coding
 
-/*
-*
-*Function that instantiates values etc
-*
-*/
+
 void SetUp(){
-    
+Function that instantiates values etc. Runs once on start
 }
 
-/*
-*
-*Function that continously runs. Here is where you check for logic like if a button was pressed etc
-*
-*/
 void loop(){
-    
+Function that continously runs. Here is where you check for logic like if a button was pressed etc
 }
 
-There should be a bunch of guides to look at as well.
+There should be a bunch of guides to look at as well if you go here and download
+
+https://www.elegoo.com/pages/download#erid4943043
+
+Select STEM Kits and download tutorials/IDE
